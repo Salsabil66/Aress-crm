@@ -200,17 +200,6 @@ src/
 - Smooth color transitions
 
 ---
-## 🙏 Acknowledgments
-
-Special thanks to **[@defaltastra](https://github.com/defaltastra)** for their invaluable contributions to the backend integration and database architecture.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 <div align="center">
 
